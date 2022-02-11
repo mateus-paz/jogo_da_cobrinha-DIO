@@ -1,1 +1,1 @@
-# Jogo da Cobrinha em JavaaScript
+# Jogo da Cobrinha em JavaScript
